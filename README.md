@@ -4,6 +4,8 @@
 
 ---
 
+🌐 Live Dashboard: https://supply-chain-analytics-dashboard-iki.streamlit.app
+
 ## Overview
 
 The **Supply Chain Analytics Dashboard** is a Streamlit-based business intelligence tool designed to give supply chain managers, analysts, and executives a unified view of operations across the entire supply chain lifecycle. It consolidates data from procurement through to final customer delivery, enabling data-driven decisions at every level of the organization.
